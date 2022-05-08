@@ -6,8 +6,9 @@ authors = ["Alex M <alex@mosstech.io>"]
 license = "GPL"
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.9"
 python-decouple = "^3.6"
+pytest = "^7.1.2"
 
 [tool.poetry.dev-dependencies]
 
